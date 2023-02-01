@@ -1,0 +1,3 @@
+# sqlserver-curso
+Ejercicios resueltos de sql
+Se esta envia un primer lote de 15 querys en SQL...
